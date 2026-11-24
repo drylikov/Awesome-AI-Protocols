@@ -1,0 +1,33 @@
+
+# Awesome AI Protocols
+
+> A curated list of awesome AI protocols.
+
+## Contents
+
+- [Models](#models)
+- [Context](#context)
+- [Authentication](#authentication)
+- [Payments](#payments)
+
+## Models
+
+- [Open Responses](https://www.openresponses.org/) - Multi-provider LLM API based on the [OpenAI](https://openai.com/) [Responses API](https://platform.openai.com/docs/api-reference/responses).
+
+## Context
+
+- [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) - Connect AI applications to external systems.
+- [Agent2Agent Protocol](https://a2a-protocol.org/) (A2A) - Communication and collaboration between AI agents.
+- [Agent Communication Protocol](https://agentcommunicationprotocol.dev/) (ACP) - Connect AI agents, applications, and humans.  Now [merged](https://github.com/orgs/i-am-bee/discussions/5) with A2A.
+
+## Authentication
+
+- [Web Bot Auth](https://datatracker.ietf.org/wg/webbotauth/about/) - Authenticate automated bots using [HTTP message signatures](https://datatracker.ietf.org/doc/html/rfc9421).
+
+## Payments
+
+- [Agentic Commerce Protocol](https://www.agenticcommerce.dev/) - Commerce flows between buyers, AI agents, and businesses.
+- [Agent Payments Protocol](https://ap2-protocol.org/) (AP2) - AI-driven commerce.
+- [Trusted Agent Protocol](https://developer.visa.com/capabilities/trusted-agent-protocol) - Authenticate [Visa](https://usa.visa.com/)-approved agents with commerce intent.
+- [KYAPay](https://www.kyapay.ai/) - Identity-linked payment protocol for agent-to-agent and agent-to-service interactions.
+- [x402](https://www.x402.org/) - Internet-native payments.
